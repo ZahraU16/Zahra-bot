@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ramlan
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Zahra
 <p align="center">
 <img src="https://raw.githubusercontent.com/Ramlan666/babybot/main/assets/R4ML4N.jpg" width="230" height="230"/>
 </p>
@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="#"><img title="RAMLAN ID" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Zahra" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Ramlan666"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAMLAN-orange.svg?style=for-the-badge&logo=github"></a>
@@ -25,7 +25,7 @@
  
 </details>
 
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗥𝗔𝗠𝗟𝗔𝗡 𝗜𝗗
+### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 Zahra
 
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
